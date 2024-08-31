@@ -1,6 +1,6 @@
 {
-  "name": "hasanabi-census",
-  "version": "1.0.0",
+  "name": "yugopnik-census",
+  "version": "0.9.0",
   "main": "index.js",
   "type": "module",
   "scripts": {
