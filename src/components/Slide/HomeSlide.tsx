@@ -10,6 +10,7 @@ export default function HomeSlide() {
       <p><i>with data from January 2024</i></p>
       {/*<p>art and stylistic direction by Oni_Spumoni</p>*/}
       {/*<p>website by brilliantdrink</p>*/}
+      <Signature class={styles.signature} classSvg={''}/>
     </div>
   </>
 }
